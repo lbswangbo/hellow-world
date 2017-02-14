@@ -1,3 +1,2 @@
 # hellow-world
-HI   lbs
-You are rubbish!!!
+just another Repository 
